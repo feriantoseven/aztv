@@ -1,17 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
-#EXTINF:-1 group-title="AZTV" tvg-logo="https://static.mncnow.id/images/channel/1f0e4f1c/1de6_r32.jpg",01. SPOTV
+#EXTINF:-1 group-title="AZTV",01. SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="AZTV" tvg-logo="https://static.mncnow.id/images/channel/1f0e4f1c/1de6_r32.jpg",02. SPOTV2
+#EXTINF:-1 group-title="AZTV",02. SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="ASTRO SUPER SPORT",ASTRO SUPERSPORT 1
-https://webudi.openhd.lol/lb/premium123/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="ASTRO SUPER SPORT",ASTRO SUPERSPORT 2
-https://webudi.openhd.lol/lb/premium124/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="ASTRO SUPER SPORT",ASTRO SUPERSPORT 3
-https://webudi.openhd.lol/lb/premium125/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="ASTRO SUPER SPORT",ASTRO SUPERSPORT 4
-https://webudi.openhd.lol/lb/premium126/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="ASTRO SUPER SPORT",ASTRO SUPERSPORT 5
-https://webudi.openhd.lol/lb/premium43/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
